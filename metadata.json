@@ -1,0 +1,5 @@
+{
+  "name": "ERP Procurement Admin UI",
+  "description": "An Admin UI for an ERP Procurement (goods & services) used by a multi-school foundation, covering the entire procurement lifecycle from Purchase Requisition to Payment.",
+  "requestFramePermissions": []
+}
